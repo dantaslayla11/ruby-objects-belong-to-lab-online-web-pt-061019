@@ -4,7 +4,7 @@ end
 
 def initialize(title, artist)
   @title = title 
-  @artist = artist 
+  @artist = name
   end 
   
   
