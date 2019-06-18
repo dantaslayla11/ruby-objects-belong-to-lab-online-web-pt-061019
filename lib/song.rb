@@ -12,12 +12,5 @@ end
 
 
 
-def name 
 
-artist = Artist.new
-    artist.name = "Beyonce"
-    song.artist = artist
-
-end 
- 
 
