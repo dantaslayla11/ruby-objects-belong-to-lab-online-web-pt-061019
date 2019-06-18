@@ -7,4 +7,6 @@ end
  song.title  = "7/11"
  song.artist = "Beyonce"
  
+ song.artist.name 
+ 
 
