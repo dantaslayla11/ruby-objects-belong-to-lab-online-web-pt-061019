@@ -6,8 +6,6 @@ class Song
     @artist = artist 
   end 
   
- tittle = Title.new(7/11)
- beyonce  =  Artist.new(beyonce)
- 
+
  end 
  
