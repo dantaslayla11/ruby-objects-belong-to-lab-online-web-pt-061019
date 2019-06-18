@@ -7,7 +7,7 @@ class Song
   end
   
   
- artist = Artist.new(beyonce)
+ artist = Artist.new(Beyonce)
  end
  
 end
