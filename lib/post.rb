@@ -1,5 +1,5 @@
 class Post 
-  attr_accessor :title, :artist 
+  attr_accessor :title, :author 
 end 
 
 
@@ -8,4 +8,4 @@ end
   
  song = Song.new()
  song.title  = "7/11"
- song.artist = "Beyonce"
+ song.author = "Beyonce"
