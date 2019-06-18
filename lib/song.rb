@@ -8,7 +8,8 @@ class Song
   
   
  artist = Artist.new
- end
+ 
+ 
  
 end
  
