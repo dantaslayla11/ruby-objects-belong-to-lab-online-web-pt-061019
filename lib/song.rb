@@ -10,7 +10,7 @@ end
  song.title  = "7/11"
  song.artist = "Beyonce"
 
-artist = Artist.new("Beyonce")
+artist = Artist.new()
 artist.name = "Beyonce"
 song.artist = artist
 song.artist.name = "Beyonce"
