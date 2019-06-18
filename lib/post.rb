@@ -7,5 +7,5 @@ end
   
   
  song = Song.new()
- song.title  = "7/11"
- song.author = "Beyonce"
+ song.title  = "Hello World"
+ song.author = 
