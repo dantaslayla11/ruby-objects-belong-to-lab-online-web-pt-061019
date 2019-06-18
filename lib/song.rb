@@ -14,7 +14,9 @@ end
 
 def name 
 
-artist.name = "Beyonce"
+artist = Artist.new
+    artist.name = "Beyonce"
+    song.artist = artist
 
 end 
  
