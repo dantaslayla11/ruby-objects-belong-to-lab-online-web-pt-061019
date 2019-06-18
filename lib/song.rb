@@ -8,7 +8,9 @@ class Song
   end 
 
   
-  artist = Artist.new(beyonce)
+  def artist
+    @artist 
+  end
  
  
  
