@@ -9,5 +9,5 @@ class Song
  tittle = Title.new(7/11)
  beyonce  =  Artist.new(beyonce)
  
- 
+ end 
  
