@@ -11,7 +11,7 @@ end
  song.artist = "Beyonce"
 
 artist = Artist.new
-    artist.name = "Beyonce"
-    song.artist = artist
+artist.name = "Beyonce"
+song.artist = artist
  
 
