@@ -3,8 +3,8 @@ class Song
 end 
 
 
- title = Song.new()
- artist = Song.new()
+ song = Song.new()
+ 
  
  artist.artist = "Beyonce"
 
