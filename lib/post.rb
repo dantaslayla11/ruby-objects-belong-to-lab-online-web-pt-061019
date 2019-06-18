@@ -8,4 +8,4 @@ end
   
  song = Song.new()
  song.title  = "Hello World"
- song.author = 
+ song.author = "Uncle Bob"
