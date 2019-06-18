@@ -6,6 +6,6 @@ end
   
   
   
- song = Song.new()
+ post = Post.new()
  post.title  = "Hello World"
  post.author = "Uncle Bob"
